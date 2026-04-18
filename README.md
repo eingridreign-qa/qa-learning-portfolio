@@ -2,7 +2,6 @@
 
 This repository will contain my practice work in:
 
-- Manual Testing
 - Playwright
 - API Testing (Postman)
 - Test Cases
